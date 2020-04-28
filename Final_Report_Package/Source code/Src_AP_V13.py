@@ -19,7 +19,7 @@ import matplotlib.pyplot as plt
 from itertools import cycle
 import imageio
 from io import BytesIO
-get_ipython().run_line_magic('matplotlib', 'inline')
+#get_ipython().run_line_magic('matplotlib', 'inline')
 import numba
 from numba import jit
 import seaborn as sns
